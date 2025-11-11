@@ -20,7 +20,7 @@ MS in Statistics @ UMass Amherst · Aspiring Data Scientist / Machine Learning E
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=havo2001&show_icons=true" height="160" />
+  ![Ha Vo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=havo2001&show_icons=true&v=2)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=havo2001&layout=compact&langs_count=6" height="160" />
 </p>
 
