@@ -15,9 +15,4 @@ MS in Statistics @ UMass Amherst · Aspiring Data Scientist / Machine Learning E
 - **Tools & IDEs:** Cursor, GitHub Copilot, Visual Studio, PyCharm, CLion, Postman  
 - **Web / Backend:** FastAPI, Flask, Django, React, HTML, CSS
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=havo2001&show_icons=true&v=4" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=havo2001&layout=compact&langs_count=6" height="160" />
-</p>
 
